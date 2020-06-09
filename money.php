@@ -1,5 +1,6 @@
 <?php
-  
+//gosto de usar esse site pra testar: http://www.writephponline.com/
+
 $months=3;
 
 //ganhos
